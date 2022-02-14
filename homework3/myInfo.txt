@@ -1,3 +1,5 @@
-Name		| Vedant Patel
-Zip Code	| 19085
+
+Name	 	| Vedant Patel
+Zip Code		| 19085
+Phone Number	| +0 (123) 456-7899
 VU ID		| 12345678
